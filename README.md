@@ -127,10 +127,6 @@ pip --version
 ```
 Both should print a version number.
 
-## Using virtualenv
-
-
-
 ## Questions / Feedback / Further Disission
 
 At the end of each topic I will ask for questions. If you have a question, please write it down so you don't forget,
