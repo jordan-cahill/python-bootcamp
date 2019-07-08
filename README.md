@@ -131,7 +131,7 @@ Both should print a version number.
 
 
 
-## Questions
+## Questions / Feedback / Further Disission
 
 At the end of each topic I will ask for questions. If you have a question, please write it down so you don't forget,
 then you can ask the question between topics. Certain questions may be out of the scope of the course, for example,
